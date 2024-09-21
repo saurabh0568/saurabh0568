@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">Passionate about coding and developing useful projects</h3>
 
-- 🌱 I’m currently learning **AI/ML,DSA**
+- 🌱 I’m currently learning **AI/ML, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
