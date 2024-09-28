@@ -42,11 +42,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <h3 align="left">Profile Views:</h3>
+  <h3 align="left">Profile Views:
   <div align="center">
   <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
 </div>
-
+</h3>
 </p>
 
 <h3 align="center">📊 My GitHub Stats</h3>
