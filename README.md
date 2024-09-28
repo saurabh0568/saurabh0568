@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
+</div>
+
 <h3 align="center">Passionate about coding and developing useful projects</h3>
 
 - 🌱 I’m currently learning **AI/ML, DSA**
