@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">Passionate about coding and developing useful projects</h3>
 
+
 - 🌱 I’m currently learning **AI/ML, DSA**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,10 +45,10 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh0568&show_icons=true&locale=en&layout=compact" alt="Saurabh's most used languages" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=saurabh0568&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh0568&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh0568&" alt="Saurabh's GitHub streaks" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh0568&show_icons=true&locale=en" alt="Saurabh's GitHub stats" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh0568&" alt="Saurabh's GitHub streaks" /></p>
