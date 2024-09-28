@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">Passionate about coding and developing useful projects</h3>
 
@@ -21,6 +17,10 @@
   <a href="https://auth.geeksforgeeks.org/user/skdube3fbz/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Saurabh's GeeksforGeeks" height="30" width="40" />
   </a>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
+</div>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
