@@ -17,10 +17,6 @@
   <a href="https://auth.geeksforgeeks.org/user/skdube3fbz/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Saurabh's GeeksforGeeks" height="30" width="40" />
   </a>
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
-</div>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,6 +42,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
+  <h3 align="left">Profile Views:</h3>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg?"  />
+</div>
+
 </p>
 
 <h3 align="center">📊 My GitHub Stats</h3>
