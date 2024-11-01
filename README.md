@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">Passionate about coding and developing useful projects</h3>
 
-- 🌱 I’m currently learning **AI/ML, DSA**
+- 🌱 I'm a currently diving into the world of AI and Machine Learning. I enjoy working on projects that create real-world impact.
+
+- 💻 Also, I'm exploring DSA concepts through various projects and practicing questions on Leetcode and GeeksforGeeks.
+
+- 🚀 I’m continuously learning and growing, and I'm excited to share my journey and projects with you. Feel free to check out my repositories and connect with me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
