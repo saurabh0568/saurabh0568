@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/dubey_568" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saurabh's Instagram" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/saurabh568/" target="_blank">
+  <a href="https://leetcode.com/u//" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Saurabh's LeetCode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/skdube3fbz/" target="_blank">
