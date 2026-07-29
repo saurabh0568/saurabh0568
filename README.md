@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/dubey_568" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/saurabh0568" target="_blank">
+  <a href="https://leetcode.com/u/Saurabh568/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/skdube3fbz/" target="_blank">
