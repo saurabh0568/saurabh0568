@@ -58,16 +58,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh0568&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh0568&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh0568&theme=radical" alt="Saurabh's GitHub Streak Stats"/>
-</div>
+  <img src="./profile/stats.svg" height="180" alt="Saurabh's GitHub Stats"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh0568&theme=react-dark" alt="Saurabh's GitHub Activity Graph" width="95%"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Saurabh's Top Languages"/>
+
 </div>
 
 ---
