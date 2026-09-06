@@ -66,9 +66,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/saurabh0568/count.svg" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>⭐ From <a href="https://github.com/saurabh0568">saurabh0568</a> — thanks for stopping by!</i></p>
